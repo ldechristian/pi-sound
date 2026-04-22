@@ -33,11 +33,11 @@ TIP : You can also work on this repository by committing new code.
 
 # GOALS
 
-[] Surround Sound System
-[] CD drive
-[] Wireless controller : volume, back, skip, play/pause, eject CD disk
-[] Bluetooth
-[] WiFi : airplay and stuff
-[] HDMI audio input and HDMI video output : TV HDMI (video + audio) into the raspberry pi and HDMI (video) output for screen.
-[] multiroom system : connect your device (ex: phone) to the nearest connected system (using the bluetooth signal strength)
+-[] Surround Sound System
+-[] CD drive
+-[] Wireless controller : volume, back, skip, play/pause, eject CD disk
+-[] Bluetooth
+-[] WiFi : airplay and stuff
+-[] HDMI audio input and HDMI video output : TV HDMI (video + audio) into the raspberry pi and HDMI (video) output for screen.
+-[] multiroom system : connect your device (ex: phone) to the nearest connected system (using the bluetooth signal strength)
 
