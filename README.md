@@ -1,6 +1,16 @@
 # pi-sound
 Use your Raspberry Pi as an Audio System with - bluetooth, airplay, CD player, USB key, and more.
 
+
+PI5 vs CM5
+
+- WiFi : 6+
+- bluetooth : 5+
+- 2x 4K HDMI (one in for audio/video and on out, used for audio/video extraction)
+- surround sound system with a goal of 5+ speakers
+
+
+
 ### 1. Install **Moode Audio** OS
 
 [Moode Audio](https://moodeaudio.org)
