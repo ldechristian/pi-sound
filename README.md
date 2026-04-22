@@ -30,6 +30,9 @@ c. Use the pins on the raspberry pi to add a board to manage multiple separate s
 
 connect it to the raspberry pi using *USB*
 
+TIP : use the best usb media player you have, because the goal is to have it play CDs, DVDs, BluRays and 4K BluRays.
+(IDEA : Auto Ripping Machine ? - this would be used as a media playing station and audio system)
+
 
 ### 4. Add an Auto Play feature for CD music disks
 
